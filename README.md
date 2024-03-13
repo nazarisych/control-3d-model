@@ -14,4 +14,4 @@
 4. Build `yarn build`
 
 ### WebSites
-(https://64d574c87734c2093d60c534--timely-crostata-c35e2f.netlify.app)
+https://64d574c87734c2093d60c534--timely-crostata-c35e2f.netlify.app
